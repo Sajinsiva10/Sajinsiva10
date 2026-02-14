@@ -13,3 +13,4 @@ En dehors du cadre professionnel, je suis passionné de football (grand supporte
 Toujours prêt à relever de nouveaux défis, je suis à la recherche d’opportunités me permettant de développer mes compétences en data science et intelligence artificielle, et de contribuer activement à des projets innovants et concrets.
 
 
+Vous avez accés à mon linkedin : https://www.linkedin.com/in/sajin-sivasaranam-a771b5292/

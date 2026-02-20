@@ -1,6 +1,6 @@
 ## Salut 👋
 
-Étudiant rigoureux, curieux et motivé, en 3ᵉ année d’école d’ingénieur à l’EFRE. Je me passionne pour les technologies, les données et les environnements dynamiques, et je souhaite m’orienter vers les domaines de la data et de l’intelligence artificielle, qui combinent mon intérêt pour les mathématiques, la programmation et la résolution de problèmes concrets grâce aux données.
+Étudiant rigoureux, curieux et motivé, en 3ᵉ année d’école d’ingénieur à l’EFREI. Je me passionne pour les technologies, les données et les environnements dynamiques, et je souhaite m’orienter vers les domaines de la data et de l’intelligence artificielle, qui combinent mon intérêt pour les mathématiques, la programmation et la résolution de problèmes concrets grâce aux données.
 
 Tout au long de mon parcours, j’ai acquis des compétences en Python, Java, C, HTML, SQL, systèmes Linux et machine learning, me permettant d’aborder aussi bien le développement, l’analyse que l’optimisation de solutions techniques.
 
